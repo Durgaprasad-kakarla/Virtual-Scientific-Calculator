@@ -1,0 +1,1 @@
+This project uses hand tracking with OpenCV and MediaPipe to handle the calculator virtually. The goal is to provide a user-friendly and interactive interface for performing mathematical calculations through hand gestures.
